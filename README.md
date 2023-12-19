@@ -1,4 +1,17 @@
-### I'm a double-bacon genius burger 🥓🥓🥓
+# 👨‍💻🎤😆Evan Wimpey
+
+**`Data Comedian // Analytics Director // Bad Coder // Author`**
+
+I'm an analytics professional and stand-up comedian. Yes, dreams really do come true! With a background in statistics and economics, I've spent years analyzing data and delivering statistical models. Since the topic can be quite dry and technical, I've realized that humor is often the most effective way to make analytics more accessible...or at least the most fun way. I'm a director at an analytics consulting firm and a stand-up data comedian performing at conferences and events around the world. 
+
+I've even written a data comedy book! 
+
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 
 <!--
 **ewimpey/ewimpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
