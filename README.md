@@ -7,10 +7,9 @@ I'm an analytics professional and stand-up comedian. Yes, dreams really do come 
 I've even written a data comedy book! 
 
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+[![Data Comedy at ECU](https://img.youtube.com/vi/_TKKlfd4vs8/0.jpg)](https://www.youtube.com/watch?v=_TKKlfd4vs8 "Data Comedy at ECU")
 
 
 <!--
