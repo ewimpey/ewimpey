@@ -4,7 +4,8 @@
 
 I'm an analytics professional and stand-up comedian. Yes, dreams really do come true! With a background in statistics and economics, I've spent years analyzing data and delivering statistical models. Since the topic can be quite dry and technical, I've realized that humor is often the most effective way to make analytics more accessible...or at least the most fun way. I'm a director at an analytics consulting firm and a stand-up data comedian performing at conferences and events around the world. 
 
-I've even written a data comedy book! 
+I've even written a data comedy book! [Get it here!](https://www.amazon.com/Predictable-Jokes-Data-Driven-Analytics-Learning/dp/B0C6NZFRDP)
+
 
 
 ### 📺 YouTube Videos
